@@ -1,0 +1,76 @@
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\css2
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700;900&display=swap);body{-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Oxygen,Ubuntu,Cantarell,Fira Sans,Droid Sans,Helvetica Neue,sans-serif}code{font-family:source-code-pro,Menlo,Monaco,Consolas,Courier New,monospace}:root,[data-bs-theme=light]{--bs-blue:
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuaabWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWub2bWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWubEbWmT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuYjammT.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v47/KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\s\roboto\v47\KFOMCnqEu92Fr1ME7kSn66aGLdTylUAMQXC89YmC2DPNWuZtammT.ttf
+Content Type: font/ttf
+
+Uri: https://ultimate-bakedbeans.app/
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\index.htm
+Content Type: text/html
+
+Uri: https://ultimate-bakedbeans.app/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://ultimate-bakedbeans.app/favicon-16x16.png
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://ultimate-bakedbeans.app/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://ultimate-bakedbeans.app/favicon.ico
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://ultimate-bakedbeans.app/manifest.json
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\manifest.json
+Content Type: application/json
+
+Uri: https://ultimate-bakedbeans.app/static/css/main.34349d1a.css
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\static\css\main.34349d1a.css
+Content Type: text/css
+
+Uri: https://ultimate-bakedbeans.app/static/js/main.3bbfcedd.js
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\static\js\main.3bbfcedd.js
+Content Type: text/javascript
+
+Uri: https://ultimate-bakedbeans.app/static/media/bg.339a4f37c35c36559821.webp
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\static\media\bg.339a4f37c35c36559821.webp
+Content Type: image/webp
+
+Uri: https://ultimate-bakedbeans.app/static/media/PoseyTexturedRegular.5e27f7a6694bd4f2413c.woff2
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\static\media\PoseyTexturedRegular.5e27f7a6694bd4f2413c.woff2
+Content Type: font/woff2
+
+Uri: https://ultimate-bakedbeans.app/static/media/PoseyTexturedRegular.a02de3fa16b08fc9c322.ttf
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\static\media\PoseyTexturedRegular.a02de3fa16b08fc9c322.ttf
+Content Type: font/ttf
+
+Uri: https://ultimate-bakedbeans.app/static/media/PoseyTexturedRegular.f90b562b11e3978db2dd.woff
+File Name: C:\Downloaded Web Sites\ultimate-bakedbeans.app\static\media\PoseyTexturedRegular.f90b562b11e3978db2dd.woff
+Content Type: font/woff
+
